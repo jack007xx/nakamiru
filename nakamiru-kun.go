@@ -1,4 +1,4 @@
-package nakamirukun
+package nakamiru-kun
 
 import (
 	"bytes"
