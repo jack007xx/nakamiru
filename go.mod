@@ -1,4 +1,4 @@
-module github.com/jack007/nakamiru
+module github.com/jack007xx/nakamiru
 
 go 1.14
 
